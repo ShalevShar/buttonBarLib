@@ -7,21 +7,22 @@
 	    <b>  
 	    <br>
 	    Functionality</b>
-	    <b>Design:</b>
-      <br>Orientation</br>
-	<b>Choose between vertical or horizontal oriented bar</b>
-	        <br align="center"> ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/be61371d-2d94-4324-b44c-701ac46e6ddb)</br>
-      Button and Bar Shape
-	<br align="center">
+    <br>
+    <br>
+    <b>
+	    Design:</b>
+    <br>
+      **Button and Bar Shape**
         Choose between round or square shapes for both the button and the bar.
+      <br>
     <img width="201" alt="round-bar" src="https://github.com/user-attachments/assets/6abce6c6-b6ed-46b8-b208-93af69e04ceb">
     <img width="201" alt="square-bar" src="https://github.com/user-attachments/assets/747c17a1-68e3-48d2-8575-c5b6304d1255">
-    </br>
-	Custom Colors 
-	<br align="center>
+    <br>
+      **Custom Colors**
         Set custom colors for the bar, buttons, and button icons to match your app's theme.
+    <br>
     <img width="201" alt="any-colors" src="https://github.com/user-attachments/assets/a3a64be5-b671-46ce-955f-edaf41aa49f1">
- </br>
+ 
 <b>Animation:</br>
 <b>
     Click Animations: Choose from three different animation types for button interactions:
@@ -30,6 +31,8 @@
     Oppose Color Animation: The button swaps its icon and background colors upon interaction.
         <br align="center"> ![B9A33A2F-5D36-4B89-B962-71E4D7663150-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f16503df-53e9-4ba6-8562-3a82f82e1fe3)</br>
 </div>
+
+
 
 
 # Usage
