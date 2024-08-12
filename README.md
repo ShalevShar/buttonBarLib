@@ -13,10 +13,9 @@
 	    Design:</b>
     <br>
 	    <br>
-	    <b style="font-size: 50px;">
-	     Custom Orientation</b>
-    <br>
-	       Choose between horizontal bar or vertical bar orientation.
+	    <b>
+	     Custom Orientation</br>
+    <b>Choose between horizontal bar or vertical bar orientation.
       <br align="center"> ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/c485bf99-621a-48af-89ca-cc5e644006b7)</br>
     <b>
 	     Button and Bar Shape</b>
