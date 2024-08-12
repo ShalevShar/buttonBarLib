@@ -7,10 +7,11 @@
 	    <b>  
 	    <br>
 	    Functionality</b>
-    <br>
-    <br>
-    <b>
 	    Design:</b>
+	    <br>
+      <b>Orientation</b>
+	Choose between vertical or horizontal oriented bar
+      	<br align="center"> ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/348b0526-1962-4ca8-a1d1-0eaa2c4aee48)</br>
     <br>
       Button and Bar Shape
         Choose between round or square shapes for both the button and the bar.
