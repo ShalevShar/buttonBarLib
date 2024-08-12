@@ -3,8 +3,6 @@
 </div>
 A versatile costumizable button bar library for Android.
 <div align="center">
-  
-<div align="center">
     <b>
 	    <b>  
 	    <br>
@@ -31,7 +29,7 @@ A versatile costumizable button bar library for Android.
     Enlarging Icon Animation: The button's icon enlarges when pressed.
     Fill Bar Animation: The button expands to fill the bar's width or height on click.
     Oppose Color Animation: The button swaps its icon and background colors upon interaction.
-
+</div>
 
 
 # Usage
@@ -106,7 +104,6 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-</div>
 
 ## Credits
 ### Authors and Contributors
