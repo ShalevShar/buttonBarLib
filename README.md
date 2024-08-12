@@ -36,7 +36,7 @@ A versatile costumizable button bar library for Android.
 
 # Usage
 ### XML Layout Example:
-```java
+``java
  <com.example.buttonbarlib.ButtonBarView
     android:id="@+id/buttonBarView"
     android:layout_width="match_parent"
@@ -48,9 +48,10 @@ A versatile costumizable button bar library for Android.
     app:buttonColor="@color/black"
     app:iconColor="@color/white">
 </com.example.buttonbarlib.ButtonBarView>
-```
+``
+
 ## Activity Implementation Example:
-```java
+``java
 package com.example.buttonbarlibrary;
 
 import android.graphics.drawable.Drawable;
@@ -103,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
         // Handle Profile Button Click
     }
 }
-```
+``
 
 
 
