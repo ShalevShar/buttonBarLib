@@ -16,8 +16,6 @@
 	    <b>
 	     Custom Orientation</br>
     <b>Choose between horizontal bar or vertical bar orientation.
-     <b>![image](https://github.com/user-attachments/assets/f116bba4-19b3-437a-8e81-3c25b8ba74f9)</b>
-
     <b>
 	     Button and Bar Shape</b>
     <br>
