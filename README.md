@@ -6,7 +6,7 @@
     <b>
 	    <b>  
 	    <br>
-	    style="font-size: 30px;">Functionality</b>
+	    Functionality</b>
     <br>
     <br>
     <b>
