@@ -22,10 +22,10 @@ A versatile costumizable button bar library for Android.
         Set custom colors for the bar, buttons, and button icons to match your app's theme.
     <br>
     <img width="201" alt="any-colors" src="https://github.com/user-attachments/assets/a3a64be5-b671-46ce-955f-edaf41aa49f1">
-    
-####Animation:
+ 
+<b>Animation:</br>
     <br align="center"> ![B9A33A2F-5D36-4B89-B962-71E4D7663150-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f16503df-53e9-4ba6-8562-3a82f82e1fe3)</br>
-
+<b>
     Click Animations: Choose from three different animation types for button interactions:
     Enlarging Icon Animation: The button's icon enlarges when pressed.
     Fill Bar Animation: The button expands to fill the bar's width or height on click.
