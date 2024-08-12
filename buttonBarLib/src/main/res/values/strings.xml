@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ButtonBarLibrary</string>
+    <string name="default_margins">10</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <declare-styleable name="ButtonBarView">
+        <attr name="barOrientation" format="enum">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr name="layoutMode" format="enum">
+            <enum name="startToEnd" value="0" />
+            <enum name="centerFloat" value="1" />
+        </attr>
+        <attr name="barShape" format="enum">
+            <enum name="round" value="0" />
+            <enum name="square" value="1" />
+        </attr>
+        <attr name="buttonShape" format="enum">
+            <enum name="round" value="0" />
+            <enum name="square" value="1" />
+        </attr>
+        <attr name="backgroundColor" format="color" />
+        <attr name="buttonColor" format="color" />
+        <attr name="iconColor" format="color" />
+        <attr name="backgroundDrawable" format="reference" />
+        <attr name="buttonWidth" format="dimension" />
+        <attr name="buttonHeight" format="dimension" />
+    </declare-styleable>
+</resources>
