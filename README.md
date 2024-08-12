@@ -16,7 +16,7 @@
         Choose between round or square shapes for both the button and the bar.
     <img width="201" alt="round-bar" src="https://github.com/user-attachments/assets/6abce6c6-b6ed-46b8-b208-93af69e04ceb">
     <img width="201" alt="square-bar" src="https://github.com/user-attachments/assets/747c17a1-68e3-48d2-8575-c5b6304d1255">
-    <br>
+    </br>
 	Custom Colors 
 	<br>
         Set custom colors for the bar, buttons, and button icons to match your app's theme.
