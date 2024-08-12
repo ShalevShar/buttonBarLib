@@ -23,8 +23,9 @@ A versatile costumizable button bar library for Android.
     <br>
     <img width="201" alt="any-colors" src="https://github.com/user-attachments/assets/a3a64be5-b671-46ce-955f-edaf41aa49f1">
     <b>
-	    Animation:
+	Animation:
     </b>
+	    ![B9A33A2F-5D36-4B89-B962-71E4D7663150-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e4f48654-4ccc-4dca-8b69-30f92e2892fe)
     <br>
     Click Animations: Choose from three different animation types for button interactions:
     Enlarging Icon Animation: The button's icon enlarges when pressed.
