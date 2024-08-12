@@ -18,10 +18,10 @@
     <img width="201" alt="square-bar" src="https://github.com/user-attachments/assets/747c17a1-68e3-48d2-8575-c5b6304d1255">
     </br>
 	Custom Colors 
-	<br>
+	<br align="center>
         Set custom colors for the bar, buttons, and button icons to match your app's theme.
     <img width="201" alt="any-colors" src="https://github.com/user-attachments/assets/a3a64be5-b671-46ce-955f-edaf41aa49f1">
- <br>
+ </br>
 <b>Animation:</br>
 <b>
     Click Animations: Choose from three different animation types for button interactions:
