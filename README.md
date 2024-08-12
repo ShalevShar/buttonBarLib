@@ -13,7 +13,7 @@
 	    Design:</b>
     <br>
 	    <br>
-	    <b style="font-size: 10px;">
+	    <b style="font-size: 15px;">
 	     Custom Orientation</b>
     <br>
 	       Choose between horizontal bar or vertical bar orientation.
