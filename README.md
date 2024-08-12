@@ -10,7 +10,6 @@ A versatile costumizable button bar library for Android.
 	    <br>
 	    Functionality</b>
     <br>
-    <img width="600" alt="progressSizes" src="https://github.com/ShalevShar/progressbarLib/assets/127881894/f957151a-4c5d-4a5d-90c8-4c88d91f7368">
     <br>
     <b>
 	    Design:</b>
