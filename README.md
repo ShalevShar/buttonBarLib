@@ -32,11 +32,11 @@ A versatile costumizable button bar library for Android.
     Fill Bar Animation: The button expands to fill the bar's width or height on click.
     Oppose Color Animation: The button swaps its icon and background colors upon interaction.
 
-</div>
+
 
 # Usage
 ### XML Layout Example:
-``java
+```java
  <com.example.buttonbarlib.ButtonBarView
     android:id="@+id/buttonBarView"
     android:layout_width="match_parent"
@@ -48,10 +48,10 @@ A versatile costumizable button bar library for Android.
     app:buttonColor="@color/black"
     app:iconColor="@color/white">
 </com.example.buttonbarlib.ButtonBarView>
-``
+```
 
 ## Activity Implementation Example:
-``java
+```java
 package com.example.buttonbarlibrary;
 
 import android.graphics.drawable.Drawable;
@@ -104,9 +104,9 @@ public class MainActivity extends AppCompatActivity {
         // Handle Profile Button Click
     }
 }
-``
+```
 
-
+</div>
 
 ## Credits
 ### Authors and Contributors
