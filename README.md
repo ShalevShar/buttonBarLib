@@ -16,7 +16,6 @@
 	    <b>
 	     Custom Orientation</br>
     <b>Choose between horizontal bar or vertical bar orientation.
-	![Orientation](https://github.com/user-attachments/assets/238be746-a0e1-4ef5-98a5-66e44a2531fd)
     <b>
 	     Button and Bar Shape</b>
     <br>
@@ -39,6 +38,7 @@
     Fill Bar Animation: The button expands to fill the bar's width or height on click.
     Oppose Color Animation: The button swaps its icon and background colors upon interaction.
         <br align="center"> ![B9A33A2F-5D36-4B89-B962-71E4D7663150-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f16503df-53e9-4ba6-8562-3a82f82e1fe3)</br>
+	<b align="center"> ![ezgif cowm-animated-gif-maker](https://github.com/user-attachments/assets/731facb2-98af-4d12-a5b2-e5d0561e056f)</br>
 </div>
 
 
