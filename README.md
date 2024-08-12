@@ -1,8 +1,8 @@
 <div style="text-align: center;">
     <h1 align="center" style="font-size: 30px;">ButtonBar Library</h1>
 </div>
-A versatile costumizable button bar library for Android.
 <div align="center">
+	A versatile costumizable button bar library for Android.
     <b>
 	    <b>  
 	    <br>
