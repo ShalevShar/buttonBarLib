@@ -16,7 +16,7 @@
 	    <b>
 	     Custom Orientation</br>
     <b>Choose between horizontal bar or vertical bar orientation.
-	 <b align="center"> ![ezgif cowm-animated-gif-maker](https://github.com/user-attachments/assets/93ad0c79-9f6e-4978-8c9c-2a5fb6010c17)</b>
+	 <br align="center"> ![ezgif cowm-animated-gif-maker](https://github.com/user-attachments/assets/93ad0c79-9f6e-4978-8c9c-2a5fb6010c17)</br>
     <b>
 	     Button and Bar Shape</b>
     <br>
