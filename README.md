@@ -1,46 +1,46 @@
-<div style="text-align: center;">
-    <h1 align="center" style="font-size: 30px;">ButtonBar Library</h1>
-</div>
 <div align="center">
-	A versatile costumizable button bar library for Android.
-    </br>
-	### Design
-    </br>
-	    <b>
-	    </b>
-	    <b>Button and Bar Shape</b>	    
-    <br>
-        Choose between round or square shapes for both the button and the bar.
-      <br>
+    <h1>ButtonBar Library</h1>
+    <p>A versatile customizable button bar library for Android.</p>
+</div>
+
+---
+
+### Design
+
+**Button and Bar Shape**  
+Choose between **round** or **square** shapes for both the button and the bar.
+
+<div align="center">
     <img width="201" alt="round-bar" src="https://github.com/user-attachments/assets/6abce6c6-b6ed-46b8-b208-93af69e04ceb">
     <img width="201" alt="square-bar" src="https://github.com/user-attachments/assets/747c17a1-68e3-48d2-8575-c5b6304d1255">
-    <br>
-       <b>
-	     Costum Colors </b>
-    <br>
-        Set custom colors for the bar, buttons, and button icons to match your app's theme.
-    <br>
-    <img width="201" alt="any-colors" src="https://github.com/user-attachments/assets/a3a64be5-b671-46ce-955f-edaf41aa49f1">
- 
-<b>Animation:</br>
-<b>
-    Click Animations: Choose from three different animation types for button interactions:
-    Enlarging Icon Animation: The button's icon enlarges when pressed.
-    Fill Bar Animation: The button expands to fill the bar's width or height on click.
-    Oppose Color Animation: The button swaps its icon and background colors upon interaction.
-        <br align="center"> ![B9A33A2F-5D36-4B89-B962-71E4D7663150-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f16503df-53e9-4ba6-8562-3a82f82e1fe3)</br>
-	<b>Custom Orientation</br>
-    <b>
-     <b>  
-	    <b>Functionality</br>
-	<b>Choose between horizontal bar or vertical bar orientation.
-		<br align="center"> ![horizontal-vertocal-gif-bar](https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c)</br>
-	    </b>
-	
 </div>
 
+**Custom Colors**  
+Set custom colors for the bar, buttons, and button icons to match your app's theme.
 
+<div align="center">
+    <img width="201" alt="any-colors" src="https://github.com/user-attachments/assets/a3a64be5-b671-46ce-955f-edaf41aa49f1">
+</div>
 
+**Animation**  
+Choose from three different animation types for button interactions:
+
+1. **Enlarging Icon Animation**: The button's icon enlarges when pressed.
+2. **Fill Bar Animation**: The button expands to fill the bar's width or height on click.
+3. **Oppose Color Animation**: The button swaps its icon and background colors upon interaction.
+
+<div align="center">
+    <img alt="animation-example" src="https://github.com/user-attachments/assets/f16503df-53e9-4ba6-8562-3a82f82e1fe3">
+</div>
+
+**Custom Orientation**  
+Choose between horizontal bar or vertical bar orientation.
+
+<div align="center">
+    <img alt="horizontal-vertical-bar" src="https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c">
+</div>
+
+---
 
 # Usage
 ### XML Layout Example:
