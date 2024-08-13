@@ -11,7 +11,7 @@
     <b>
 	<b>
 	    Choose between horizontal bar or vertical bar orientation.
-		<br align="center" ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/0ddb28fb-63b7-4066-a05e-211215a0fd6b)</b>
+		<br align="center" ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/0ddb28fb-63b7-4066-a05e-211215a0fd6b)</br>
 	    </b>
 	    <b>Button and Bar Shape</b>	    
     <br>
