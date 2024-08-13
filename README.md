@@ -17,7 +17,7 @@
 
 <div align="center">
     <p><b>Button and Bar Shape</b><br>
-    Choose between <b>round</b> or <b>square</b> shapes for both the button and the bar.</p>
+    Choose between <b>round</b> or <b>square</b> shapes for both the buttons and the bar.</p>
 </div>
 
 <div align="center">
