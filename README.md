@@ -7,11 +7,6 @@
 	    <b>  
 	    <b>Functionality</br>
     <b>Design:</br>
-	    <b>Custom Orientation</br>
-    <b>
-	<b>Choose between horizontal bar or vertical bar orientation.
-		![horizontal-vertocal-gif-bar](https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c)
-	    </b>
 	    <b>Button and Bar Shape</b>	    
     <br>
         Choose between round or square shapes for both the button and the bar.
@@ -33,6 +28,11 @@
     Fill Bar Animation: The button expands to fill the bar's width or height on click.
     Oppose Color Animation: The button swaps its icon and background colors upon interaction.
         <br align="center"> ![B9A33A2F-5D36-4B89-B962-71E4D7663150-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f16503df-53e9-4ba6-8562-3a82f82e1fe3)</br>
+	<b>Custom Orientation</br>
+    <b>
+	<b>Choose between horizontal bar or vertical bar orientation.
+		![horizontal-vertocal-gif-bar](https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c)
+	    </b>
 	
 </div>
 
