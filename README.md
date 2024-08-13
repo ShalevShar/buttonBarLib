@@ -3,10 +3,9 @@
 </div>
 <div align="center">
 	A versatile costumizable button bar library for Android.
-    <b>
     </br>
     </div>
-###Design
+	### Design
     </b>
 	    <b>
 	    </b>
