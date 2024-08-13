@@ -10,7 +10,7 @@
 	    <b>Custom Orientation</br>
     <b>
 	<b>Choose between horizontal bar or vertical bar orientation.
-		<br align="center"> ![horizontal-vertocal-gif-bar](https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c)</br>
+		![horizontal-vertocal-gif-bar](https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c)
 	    </b>
 	    <b>Button and Bar Shape</b>	    
     <br>
