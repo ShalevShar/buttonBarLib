@@ -5,7 +5,7 @@
 	A versatile costumizable button bar library for Android.
     <b>
     <b>Design:</br>
-	    <br style="font-size: 30px;">Button and Bar Shape</br>	    
+	    <b>Button and Bar Shape</br>	    
     <br>
         Choose between round or square shapes for both the button and the bar.
       <br>
