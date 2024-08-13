@@ -5,6 +5,7 @@
 	A versatile costumizable button bar library for Android.
     <b>
     </br>
+    </div>
 ### Design
     </b>
 	    <b>
