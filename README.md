@@ -10,7 +10,7 @@
 	    <b>Custom Orientation</br>
     <b>
 	<b>Choose between horizontal bar or vertical bar orientation.
-		<br align="center" width="200"> ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/0ddb28fb-63b7-4066-a05e-211215a0fd6b)</br>
+		<br align="center"> ![horizontal-vertocal-gif-bar](https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c)</br>
 	    </b>
 	    <b>Button and Bar Shape</b>	    
     <br>
