@@ -7,38 +7,46 @@
 
 <div align="center">
     <h3>Design</h3>
+    <p><b>Custom Orientation</b><br>
+    Choose between <b>horizontal</b> bar or <b>vertical</b> bar orientation.</p>
+</div>
+
+<div align="center">
+    <img alt="horizontal-vertical-bar" src="https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c">
+</div>
+
+<div align="center">
     <p><b>Button and Bar Shape</b><br>
     Choose between <b>round</b> or <b>square</b> shapes for both the button and the bar.</p>
 </div>
+
 <div align="center">
     <img width="201" alt="round-bar" src="https://github.com/user-attachments/assets/6abce6c6-b6ed-46b8-b208-93af69e04ceb">
     <img width="201" alt="square-bar" src="https://github.com/user-attachments/assets/747c17a1-68e3-48d2-8575-c5b6304d1255">
 </div>
 
-**Custom Colors**  
-Set custom colors for the bar, buttons, and button icons to match your app's theme.
+<div align="center">
+    <h3>Design</h3>
+    <p><b>Custom Colors</b><br>
+    Set custom colors for the bar, buttons, and button icons to match your app's theme.</p>
+</div>
 
 <div align="center">
     <img width="201" alt="any-colors" src="https://github.com/user-attachments/assets/a3a64be5-b671-46ce-955f-edaf41aa49f1">
 </div>
 
-**Animation**  
-Choose from three different animation types for button interactions:
-
-1. **Enlarging Icon Animation**: The button's icon enlarges when pressed.
-2. **Fill Bar Animation**: The button expands to fill the bar's width or height on click.
-3. **Oppose Color Animation**: The button swaps its icon and background colors upon interaction.
+<div align="center">
+    <h3>Animation</h3>
+    <p><b>Choose from three different animation types for button interactions:</b><br>
+    	1.Enlarging Icon Animation**: The button's icon enlarges when pressed.
+	2.Fill Bar Animation**: The button expands to fill the bar's width or height on click.
+	3.Oppose Color Animation**: The button swaps its icon and background colors upon interaction.</p>
+</div>
 
 <div align="center">
     <img alt="animation-example" src="https://github.com/user-attachments/assets/f16503df-53e9-4ba6-8562-3a82f82e1fe3">
 </div>
 
-**Custom Orientation**  
-Choose between horizontal bar or vertical bar orientation.
-
-<div align="center">
-    <img alt="horizontal-vertical-bar" src="https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c">
-</div>
 
 ---
 
