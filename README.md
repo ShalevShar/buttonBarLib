@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <img alt="horizontal-vertical-bar" src="https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c">
+    <img width="200" alt="horizontal-vertical-bar" src="https://github.com/user-attachments/assets/6cebc497-84c4-4501-97e5-c67b3fa12d5c">
 </div>
 
 <div align="center">
