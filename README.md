@@ -4,9 +4,9 @@
 <div align="center">
 	A versatile costumizable button bar library for Android.
     <b>
+	    <b>
     <b>Design:</br>
 	    <b>
-		    <b></b>
 	    </b>
 	    <b>Button and Bar Shape</br>	    
     <br>
