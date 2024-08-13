@@ -6,6 +6,8 @@
     <b>
     <b>Design:</br>
 	    <b>
+		    <b></b>
+	    </b>
 	    <b>Button and Bar Shape</br>	    
     <br>
         Choose between round or square shapes for both the button and the bar.
