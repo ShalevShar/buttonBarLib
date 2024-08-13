@@ -36,7 +36,7 @@
 
 <div align="center">
     <h3>Animation</h3>
-    <p><b>Choose from three different animation types for button interactions:</b><br>
+    <p><b>Choose an animation type for your button interactions:</b><br>
     	</br><b>1.Enlarging Icon Animation:</b></br> The button's icon enlarges when pressed.</b>
 	</br><b>2.Fill Bar Animation:</b></br> The button expands to fill the bar's width or height on click.</b>
 	</br><b>3.Oppose Color Animation:</b></br> The button swaps its icon and background colors upon interaction.<b></b></p>
