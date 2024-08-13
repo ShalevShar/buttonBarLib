@@ -5,7 +5,7 @@
 	A versatile costumizable button bar library for Android.
     </br>
 	### Design
-    </b>
+    </br>
 	    <b>
 	    </b>
 	    <b>Button and Bar Shape</b>	    
