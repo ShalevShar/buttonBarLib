@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-    <img alt="animation-example" src="https://github.com/user-attachments/assets/f16503df-53e9-4ba6-8562-3a82f82e1fe3">
+    <img width="200" alt="animation-example" src="https://github.com/user-attachments/assets/f16503df-53e9-4ba6-8562-3a82f82e1fe3">
 </div>
 
 
