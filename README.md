@@ -26,7 +26,6 @@
 </div>
 
 <div align="center">
-    <h3>Design</h3>
     <p><b>Custom Colors</b><br>
     Set custom colors for the bar, buttons, and button icons to match your app's theme.</p>
 </div>
